@@ -15,3 +15,9 @@ GetVeryImportantInstance():
 
 Si bien este patrón tiene varias ventajas, su uso puede complicar el mantenimiento y pruebas en el proyecto, ya que al cambiar o refactorizar la clase singleton, podrías causar problemas en los componentes del programa que usan el singleton, dichos problemas serán dificiles de hallar.
 
+Imagen de la clase singleton: ![image](https://github.com/DanyElAlgo/borrador/blob/master/singleton.png "Singleton")
+
+Referencias:
+
+Singleton. (n.d.). https://refactoring.guru/es/design-patterns/singleton <br>
+IONOS, E. editorial de. (2021, February 19). Patron singleton: Una Clase Propia. IONOS Digital Guide. https://www.ionos.com/es-us/digitalguide/paginas-web/desarrollo-web/patron-singleton/ 
