@@ -4,7 +4,7 @@ A substring is a contiguous sequence of characters within a string. The longest 
 
 Solución hecha en C#:
 
-```
+```cs
 int n = input_string.Length;
 bool[,] dp = new bool[n,n];
 
